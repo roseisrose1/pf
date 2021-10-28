@@ -4,8 +4,6 @@
 
 19 Chargen
 
-20-21 FTP
-
 22 SSH/SCP
 
 23 Telnet
@@ -66,17 +64,11 @@
 
 411-412 Direct Connect
 
-443 HTTP over SSL
-
 445 Microsoft DS
 
 464 Kerberos
 
-465 SMTP over SSL
-
 497 Retrospect
-
-500 ISAKMP
 
 512 rexec
 
@@ -98,8 +90,6 @@
 
 560 rmonitor
 
-563 NNTP over SSL
-
 587 SMTP
 
 591 FileMaker
@@ -107,8 +97,6 @@
 593 Microsoft DCOM
 
 631 Internet Printing
-
-636 LDAP over SSL
 
 639 MSDP (PIM)
 
@@ -121,12 +109,6 @@
 873 rsync
 
 902 VMware Server
-
-989-990 FTP over SSL
-
-993 IMAP4 over SSL
-
-995 POP3 over SSL
 
 1025 Microsoft RPC
 
