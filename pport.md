@@ -138,8 +138,6 @@
 
 1723 MS PPTP
 
-1725 Steam
-
 1741 CiscoWorks 2000
 
 1755 MS Media Server
@@ -161,8 +159,6 @@
 2100 Oracle XDB
 
 2222 DirectAdmin
-
-2302 Halo
 
 2483-2484 Oracle DB
 
@@ -334,7 +330,7 @@
 
 33434+ traceroute
 
-## now to the fun ports ( malware, rats, ect )
+# now to the fun ports ( malware, rats, ect )
 
 1080 MyDoom <--- 2 ports 3127 MyDoom
 
@@ -356,7 +352,7 @@
 
 31337 Back Orifice
 
-### Chat and Encrypted ports
+# Chat and Encrypted ports
 
 22 SSH/SCP
 
@@ -376,5 +372,62 @@
 
 995 POP3 over SSL
 
-#### Gaming and Peer to Peer and Streaming ports
+# Gaming
 
+1725 Steam
+
+2302 Halo
+
+3074 XBOX Live
+
+3724 World of Warcraft
+
+6112 Battle.net
+
+6500 GameSpy Arcade
+
+12035-12036 Second Life
+
+14567 Battlefield
+
+15118 Dipnet/Oddbob
+
+27015 Half-Life
+
+28960 Call of Duty
+
+# Streaming
+
+1755 MS Media Server
+
+3784-3785 Ventrilo
+
+5001 Slingbox
+
+5004-5005 RTP
+
+5060 SIP
+
+6970 Quicktime
+
+8000 Internet Radio
+
+24800 Synergy
+
+# Peer to Peer
+
+411-412 Direct Connect
+
+1214 Kazaa
+
+1337 WASTE
+
+4672 eMule
+
+6257 WinMX
+
+6346-6347 Gnutella
+
+6699 Napster
+
+6881-6999 BitTorrent
