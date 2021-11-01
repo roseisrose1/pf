@@ -9,3 +9,16 @@ Twisted pair cable is used in many ethernet networks. Comprising of four pairs o
 Fibre optic cabling is specified where high bandwidths may be needed; especially in the data centre environment and where an installation demands high capacity, typically a hospital, airports, banks….However, Fibre optic cabling is fast becoming the medium of choice for any installation that is sending high volumes of data!
 
 Of course, there are other types of cables, i.e., coaxial cable, multipair cable and of course, other types of media such as wireless, otherwise known as wifi.
+
+
+# Switches
+
+## Switches are key building blocks for any network. They connect multiple devices, such as computers, wireless access points, printers, and servers; on the same network within a building or campus. A switch enables connected devices to share information and talk to each other.
+
+# Unmanaged switches
+
+## An unmanaged network switch is designed so that you can simply plug them in and they work, no configuration required. Unmanaged switches are typically for basic connectivity. You'll often see them used in home networks or wherever a few more ports are needed, such as at your desk, in a lab, or in a conference room.
+
+# Managed switches
+
+## Managed switches give you greater security and more features and flexibility because you can configure them to custom-fit your network. With this greater control, you can better protect your network and improve the quality of service for those who access the network.
